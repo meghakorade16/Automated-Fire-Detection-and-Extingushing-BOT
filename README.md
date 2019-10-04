@@ -1,2 +1,4 @@
-# Automated-Fire-Detection-and-Extingushing-BOT
-Embedded C code to detect fire from IR senors and obstacle detection
+############################################################################################ 
+Title: Automated Fire Detection and Extingushing BOT
+############################################################################################
+1. This Repository has code for Arduino mega 2560,research paper and certificates of the awards.
